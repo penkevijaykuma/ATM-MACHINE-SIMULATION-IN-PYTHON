@@ -1,0 +1,7 @@
+
+--- Transaction Receipt ---
+2024-09-25 14:34:56.558179 - Balance inquiry: Rs.10000
+2024-09-25 14:35:02.245054 - Withdrawn: Rs.1.0
+
+Final balance: Rs.9999.0
+Thank you for using the ATM.
